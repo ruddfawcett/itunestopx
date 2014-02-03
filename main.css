@@ -1,0 +1,39 @@
+body {
+	color: #494949;
+}
+h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#wrapper #container {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 80%;
+}
+
+#wrapper #container .middle {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.center {
+	text-align: center;
+}
+
+.carousel-control, .carousel-control:hover {
+	background: none;
+	color: #000000;
+}
+
+.table {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
